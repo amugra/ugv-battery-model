@@ -1,0 +1,2 @@
+cycle_name,samples,duration_s,avg_true_power_w,avg_est_power_w,final_soc_true_percent,final_soc_est_percent,mean_abs_soc_error_percent,max_abs_soc_error_percent,mean_abs_voltage_error_v,max_abs_voltage_error_v
+heavy,600,600,801.09301,801.092615,81.225439,81.177326,0.054539,0.197001,0.012016,0.048007
